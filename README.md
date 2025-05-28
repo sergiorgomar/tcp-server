@@ -73,9 +73,10 @@ Este servidor utiliza un protocolo experimental y simple basado en texto plano p
 
 ## ¿Como ejecutar?
 
-Puede ejecutar los scripts de shell (run.sh o run.bat) dependiendo de su sistema operativo.
+`swift build` para compilar la aplicacion. 
+`swift run` para ejecutar el servidor.
 
-Adicionalmente si lo desea puede agregar los archivos a un proyecto de XCode. 
+Para abrir con XCode, necesita abrir el archivo Package.swift directo en el editor.
 
 
 ## Futuras mejoras y escalabilidad
